@@ -1,2 +1,4 @@
 # Navigation-Drawer-in-Flutter
-This Repository will explain how to create navigation drawer in flutter
+How to create navigation drawer in flutter with icons from scratch
+
+You can read full article here: "# LINK WILL BE UPDATED SOON"
